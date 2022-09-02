@@ -1,5 +1,5 @@
 # swiftUI War Challenge game
 
 <!-- display image -->
-<img src="./images/preview.png" width="300">
+<img src="./readMeAssets/screenshot.png" width="300">
 
